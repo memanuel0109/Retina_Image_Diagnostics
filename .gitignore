@@ -1,4 +1,5 @@
 env
 data/raw/images
 data/raw/annotation
-
+__pycache__
+=
